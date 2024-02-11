@@ -1,0 +1,15 @@
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\bin\Debug\net8.0\Business.deps.json
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\bin\Debug\net8.0\Business.dll
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\bin\Debug\net8.0\Business.pdb
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\bin\Debug\net8.0\Entities.dll
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\bin\Debug\net8.0\Entities.pdb
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\obj\Debug\net8.0\Business.dll
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\obj\Debug\net8.0\refint\Business.dll
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\obj\Debug\net8.0\Business.pdb
+D:\myRepo\2024FiveHourLessonKodlamaIo\MaskTracking\Business\obj\Debug\net8.0\ref\Business.dll
